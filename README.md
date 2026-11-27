@@ -5,7 +5,7 @@ My professional resume.
 
 ## Resume
 
-[View / Download My Resume](Girish_Sajjan_Resume.pdf)
+[View / Download My Resume](resume.pdf)
 
 ## Skills
 
